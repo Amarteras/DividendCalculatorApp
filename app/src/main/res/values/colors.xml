@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#04223E</color> <!-- AppBar, buttons -->
+    <color name="colorPrimaryVariant">#001D38</color> <!-- Darker variant -->
+    <color name="colorOnPrimary">#FF9800</color> <!-- Text on primary -->
+    <color name="colorSecondary">#FF9800</color> <!-- Accent color -->
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorBackground">#F5F5F5</color> <!-- Page background -->
+    <color name="colorSurface">#FFFFFF</color> <!-- Cards, content area -->
+    <color name="colorOnBackground">#000000</color> <!-- Text -->
+    <color name="colorError">#B00020</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
